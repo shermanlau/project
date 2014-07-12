@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="C:\Users\sliu\Desktop\ProjectAndroid\app\build\intermediates\pre-dexed\debug\classes-b568c3f7ac278cc5d15ae9df5976e529cbda67f4.jar"
+        jar="C:\Users\sliu\Desktop\ProjectAndroid\build\intermediates\exploded-aar\com.android.support\appcompat-v7\19.1.0\classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="3499ceba05ca1f6037c6a2fad73df8f636224a28"/>
+    <item
+        dex="C:\Users\sliu\AndroidStudioProjects\project\app\build\intermediates\pre-dexed\debug\classes-2bf0e1e769b95a0f53d003905fb789fe84366ba6.jar"
+        jar="C:\Users\sliu\AndroidStudioProjects\project\build\intermediates\exploded-aar\com.android.support\appcompat-v7\19.1.0\classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="3499ceba05ca1f6037c6a2fad73df8f636224a28"/>
+    <item
+        dex="C:\Users\sliu\AndroidStudioProjects\project\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0-817cdfde09fa4ac80d1c84eba6b81bcc90fe2ed4.jar"
+        jar="C:\Users\sliu\AndroidStudioProjects\sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67"/>
+
+</pre-dex-items>
